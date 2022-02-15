@@ -1,2 +1,3 @@
 # hello-hlompho
-My first repository on github
+My first repository on github,
+I love software development 
